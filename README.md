@@ -1,0 +1,1 @@
+This example demonstrates a common type error in TypeScript related to optional parameters. The function `printCoord` expects an object with `x` and `y` properties. However, if you try to pass an object with an additional property, like `z`, TypeScript will throw a type error.
